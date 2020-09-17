@@ -1,0 +1,130 @@
+body{
+	margin: 0;
+}
+header{
+	background-image: url(../images/backimg.jpg);
+	padding: 50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y: center;
+	background-blend-mode:transparent;
+}
+.container{
+	width: 996px;
+	margin: auto;
+	overflow: hidden;
+}
+.col-1{
+    width: 25%;
+    float: left;
+}
+.col-2{
+     width: 75%;
+     float: left;
+}
+
+img{
+	max-width: 100%;
+	width: 300px;
+	margin-left: auto;
+	display: block;
+}
+header h1{
+    font-size: 80px;
+    color: #ffffff;
+    margin: 0;
+    margin-top: 100;
+}
+header p{
+	color: #ffffff;
+	font-size: 22px;
+}
+a{
+    background: #ff0053;
+    color: #ffffff;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 12px 55px;
+    display: inline-block;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+
+.about-pnp{
+	padding: 30px 0;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.about-pnp h1{
+    font-size: 50px;
+    margin: 0;
+}
+.about-pnp p{
+font-size: 22px;
+    color: #8c8c8c;
+    padding-bottom: 40px;
+}
+.about-pnp strong{
+
+color: #000;
+}
+.service-section{
+	padding: 30px 0;
+	background-color: aliceblue;
+}
+
+.col-3{width: 50%;
+	float: left;
+	padding: 0 100px;
+	text-align: center;
+box-sizing: border-box;
+}
+.service-section h2{
+color: #ef3468;
+    font-weight: 400;
+    font-size: 22px;
+    margin: 0;
+}
+.service-section p{
+	font-size: 22px;
+	color: #8c8c8c;
+	padding-bottom: 22px;
+	margin-top: 8px;
+	margin-bottom: 25px;
+}
+.line{
+
+/* border-right-width: 20px; */
+
+/* border-right-style: solid; */
+
+/* border-right-color: #ff0055; */
+
+border-right: 6px solid #ea3d75;
+}
+
+footer{
+	background-image: url(../images/Group5.jpg);
+	padding: 50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y: center;
+	background-blend-mode:transparent;
+}
+.footer-section{
+
+}
+
+.col-4{
+    width: 26%;
+    float: left;
+}
+ h3{
+    font-size: 17px;
+    color: #ffffff;
+    margin: 0;
+}
+footer p{
+	color: #ffffff;
+	font-size: 12px;
+}
